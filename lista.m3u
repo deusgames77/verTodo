@@ -117,13 +117,13 @@ plugin://script.module.horus?action=play&id=7d70685696722c2b1b48a5ae1a7f92c445d9
 #EXTINF:-1 group-title="Copa" tvg-id="Copa 720p" ,Copa 720p
 plugin://script.module.horus?action=play&id=dab7cab5d6d177df36c3b333ca363c2266d91a03
 
-#EXTINF:-1 group-title="#Vamos" tvg-id="#Vamos 1080p" ,#Vamos 1080p
+#EXTINF:-1 group-title="Vamos" tvg-id="#Vamos 1080p" ,#Vamos 1080p
 plugin://script.module.horus?action=play&id=859bb6295b8d0f224224d3063d9db7cdeca03122
 
-#EXTINF:-1 group-title="#Vamos" tvg-id="#Vamos 720p" ,#Vamos 720p
+#EXTINF:-1 group-title="Vamos" tvg-id="#Vamos 720p" ,#Vamos 720p
 plugin://script.module.horus?action=play&id=3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
 
-#EXTINF:-1 group-title="#Vamos" tvg-id="#Ellas 1080p" ,#Ellas 1080p
+#EXTINF:-1 group-title="Vamos" tvg-id="#Ellas 1080p" ,#Ellas 1080p
 plugin://script.module.horus?action=play&id=67654e63b5065cdaa6c8e8d41bb5428b42b32830
 
 #EXTINF:-1 group-title="Otros" tvg-id="M. Deportes 1080p" ,M. Deportes 1080p
