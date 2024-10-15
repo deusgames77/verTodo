@@ -4,7 +4,7 @@
 #EXTINF:-1 tvg-id="La1.TV" group-title="Satélite" tvg-id="La 1 HD" tvg-logo="" ,La 1 HD
 plugin://script.module.horus?action=play&id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
 
-#EXTINF:-1 tvg-id="TVE1.es" group-title="Satélite" tvg-id="La1 UHD" tvg-logo="" ,La1 UHD
+#EXTINF:-1 tvg-id="La1.TV" group-title="Satélite" tvg-id="La1 UHD" tvg-logo="" ,La1 UHD
 plugin://script.module.horus?action=play&id=6636a5c1055b5913ddcd0e87a5523f7d935350af
 
 #EXTINF:-1 tvg-id="La2.TV" group-title="Satélite" tvg-id="La 2" tvg-logo="" ,La 2
@@ -250,7 +250,7 @@ plugin://script.module.horus?action=play&id=5e4cd48c79f991fcbee2de8b9d30c4b16de3
 #EXTINF:-1 group-title="Sports" tvg-id="EuroSport 2 1080p" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" ,EuroSport 2 1080p
 plugin://script.module.horus?action=play&id=c373da9e901d414b7384e671112e64d5a2310c29
 
-#EXTINF:-1 tvg-id="GOLTV.es" group-title="Satélite" tvg-id="GOL TV 1080p" tvg-logo="" ,GOL TV 1080p
+#EXTINF:-1 tvg-id="GOL PLAY" group-title="Satélite" tvg-id="GOL TV 1080p" tvg-logo="" ,GOL TV 1080p
 plugin://script.module.horus?action=play&id=d4627f7b6b237a8556819445b3283d866caceca2
 
 #EXTINF:-1 group-title="Satélite" tvg-id="tdp 1080p" tvg-logo="" ,tdp 1080p
