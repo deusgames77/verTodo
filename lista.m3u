@@ -117,7 +117,7 @@ plugin://script.module.horus?action=play&id=7d70685696722c2b1b48a5ae1a7f92c445d9
 #EXTINF:-1 group-title="Copa" tvg-id="Copa 720p" tvg-logo="" ,Copa 720p
 plugin://script.module.horus?action=play&id=dab7cab5d6d177df36c3b333ca363c2266d91a03
 
-#EXTINF:-1 group-title="Vamos" tvg-id="#Vamos 1080p" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos%20HD.png" ,#Vamos 1080p
+#EXTINF:-1 group-title="Vamos" tvg-id="M+ Vamos" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos%20HD.png" ,#Vamos 1080p
 plugin://script.module.horus?action=play&id=859bb6295b8d0f224224d3063d9db7cdeca03122
 
 #EXTINF:-1 group-title="Vamos" tvg-id="#Vamos 720p" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos%20HD.png" ,#Vamos 720p
@@ -258,13 +258,13 @@ plugin://script.module.horus?action=play&id=e2395d28ad19423212fd3aa0e81f387db3e8
 #EXTINF:-1 group-title="Tenis" tvg-id="Tennis Channel" tvg-logo="https://telegra.ph/file/8807aa3ba9ca7f2232492.jpg" ,Tennis Channel
 plugin://script.module.horus?action=play&id=9292d3b32432efb56db4014933cbdec0a7cf2e36
 
-#EXTINF:-1 group-title="Satélite" tvg-id="CUATRO 1080p" tvg-logo="" ,CUATRO 1080p
+#EXTINF:-1 group-title="Satélite" tvg-id="Cuatro" tvg-logo="" ,CUATRO 1080p
 plugin://script.module.horus?action=play&id=e8eec35f4662be1af96963245bfa88fb7d0242c4
 
 #EXTINF:-1 group-title="Satélite" tvg-id="BeMad 1080p" tvg-logo="" ,BeMad 1080p
 plugin://script.module.horus?action=play&id=5c267a00f264736c1d47c1cc3e754447ca8f770c
 
-#EXTINF:-1 group-title="Satélite" tvg-id="Telecinco 1080p" tvg-logo="" ,Telecinco 1080p
+#EXTINF:-1 group-title="Satélite" tvg-id="Telecinco" tvg-logo="" ,Telecinco 1080p
 plugin://script.module.horus?action=play&id=bb1982ae8d2d409d4ccd7a9f498042684e3532b5
 
 #EXTINF:-1 group-title="Sports" tvg-id="Sport Tv 1 1080p" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" ,Sport Tv 1 1080p
