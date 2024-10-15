@@ -1,13 +1,13 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml" url="https://elcano-kappa.vercel.app/IptvElcano.m3u"
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml, https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml, https://raw.githubusercontent.com/eldepor/epg/main/ziggogo.tv.xml, https://raw.githubusercontent.com/eldepor/epg/main/sky.de.xml, https://raw.githubusercontent.com/eldepor/epg/main/flixed.io.xml, https://raw.githubusercontent.com/eldepor/epg/main/bt.com.xml
 
-#EXTINF:-1 tvg-id="LA1.TV" group-title="Satélite" tvg-id="La 1 HD" tvg-logo="" ,La 1 HD
+#EXTINF:-1 tvg-id="La1.TV" group-title="Satélite" tvg-id="La 1 HD" tvg-logo="" ,La 1 HD
 plugin://script.module.horus?action=play&id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
 
 #EXTINF:-1 tvg-id="TVE1.es" group-title="Satélite" tvg-id="La1 UHD" tvg-logo="" ,La1 UHD
 plugin://script.module.horus?action=play&id=6636a5c1055b5913ddcd0e87a5523f7d935350af
 
-#EXTINF:-1 tvg-id="LA2.TV" group-title="Satélite" tvg-id="La 2" tvg-logo="" ,La 2
+#EXTINF:-1 tvg-id="La2.TV" group-title="Satélite" tvg-id="La 2" tvg-logo="" ,La 2
 plugin://script.module.horus?action=play&id=60106275d34f995e26bb2cc4a21a42f586c6c555
 
 #EXTINF:-1 group-title="1-La Liga" tvg-id="M. LaLiga 4K" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIGA" ,M. LaLiga 4K
