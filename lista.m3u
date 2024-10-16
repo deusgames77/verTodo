@@ -3,7 +3,7 @@
 
 <?xml version="1.0" encoding="utf-8"?>
 <tv>
-	<channel id="La1.TV">
+	<channel id="La1">
 		<display-name>La1.TV</display-name>
 	</channel>
 	<channel id="La2.TV">
