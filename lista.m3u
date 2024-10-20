@@ -1,12 +1,12 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml"
 
-#EXTINF:-1 group-title="Satélite" tvg-id="La1" tvg-name="La1" tvg-logo="" ,La1
+#EXTINF:-1 group-title="Satélite" tvg-id="La 1 HD" tvg-name="La 1" tvg-logo="" ,La1
 plugin://script.module.horus?action=play&id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
 
-#EXTINF:-1 group-title="Satélite" tvg-id="La1 UHD" tvg-name="La1 UHD" tvg-logo="" ,La1 UHD
+#EXTINF:-1 group-title="Satélite" tvg-id="La 1 HD" tvg-name="La 1 UHD" tvg-logo="" ,La1 UHD
 plugin://script.module.horus?action=play&id=61a38b6c3b6c3fdffcb2f61053f3437e569eb666
 
-#EXTINF:-1 group-title="Satélite" tvg-id="La2" tvg-name="La2" tvg-logo="" ,La2
+#EXTINF:-1 group-title="Satélite" tvg-id="La 2" tvg-name="La 2" tvg-logo="" ,La2
 plugin://script.module.horus?action=play&id=60106275d34f995e26bb2cc4a21a42f586c6c555
 
 #EXTINF:-1 group-title="Satélite" tvg-id="tdp 1080" tvg-name="tdp 1080" tvg-logo="" ,tdp 1080
@@ -312,13 +312,13 @@ plugin://script.module.horus?action=play&id=e2395d28ad19423212fd3aa0e81f387db3e8
 #EXTINF:-1 group-title="Tenis" tvg-id="Tennis Channel" tvg-name="Tennis Channel" tvg-logo="https://telegra.ph/file/8807aa3ba9ca7f2232492.jpg" ,Tennis Channel
 plugin://script.module.horus?action=play&id=9292d3b32432efb56db4014933cbdec0a7cf2e36
 
-#EXTINF:-1 group-title="Satélite" tvg-id="CUATRO 1080" tvg-name="CUATRO 1080" tvg-logo="" ,CUATRO 1080
+#EXTINF:-1 group-title="Satélite" tvg-id="Cuatro HD" tvg-name="Cuatro" tvg-logo="" ,Cuatro 1080
 plugin://script.module.horus?action=play&id=e8eec35f4662be1af96963245bfa88fb7d0242c4
 
 #EXTINF:-1 group-title="Satélite" tvg-id="BeMad 1080" tvg-name="BeMad 1080" tvg-logo="" ,BeMad 1080
 plugin://script.module.horus?action=play&id=5c267a00f264736c1d47c1cc3e754447ca8f770c
 
-#EXTINF:-1 group-title="Satélite" tvg-id="Telecinco 1080" tvg-name="Telecinco 1080" tvg-logo="" ,Telecinco 1080
+#EXTINF:-1 group-title="Satélite" tvg-id="Telecinco HD" tvg-name="Telecinco" tvg-logo="" ,Telecinco 1080
 plugin://script.module.horus?action=play&id=bb1982ae8d2d409d4ccd7a9f498042684e3532b5
 
 #EXTINF:-1 group-title="Sports" tvg-id="Sport Tv 1 1080" tvg-name="Sport Tv 1 1080" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" ,Sport Tv 1 1080
