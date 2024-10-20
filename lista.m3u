@@ -153,19 +153,19 @@ plugin://script.module.horus?action=play&id=7b975804279b0aa421496538ad21397cc06d
 #EXTINF:-1 group-title="Otros" tvg-id="M.Plus 1080" tvg-name="M.Plus 1080" tvg-logo="" ,M.Plus 1080
 plugin://script.module.horus?action=play&id=5a236fbbe6e5bbfec03db548c244a7c858d675c0
 
-#EXTINF:-1 group-title="Copa" tvg-id="Copa 1080" tvg-name="Copa 1080" tvg-logo="" ,Copa 1080
+#EXTINF:-1 group-title="América" tvg-id="Copa 1080" tvg-name="Copa 1080" tvg-logo="" ,Copa 1080
 plugin://script.module.horus?action=play&id=8ba764f6a3bce6eae87ec71208fad1aa3a20528d
 
-#EXTINF:-1 group-title="Copa" tvg-id="Copa 1080 plus" tvg-name="Copa 1080 plus" tvg-logo="" ,Copa 1080 plus
+#EXTINF:-1 group-title="América" tvg-id="Copa 1080 plus" tvg-name="Copa 1080 plus" tvg-logo="" ,Copa 1080 plus
 plugin://script.module.horus?action=play&id=d6cdd724a97fcf851e7ef641c28d6beb8663496e
 
-#EXTINF:-1 group-title="Copa" tvg-id="Copa 1080 MultiAudio" tvg-name="Copa 1080 MultiAudio" tvg-logo="" ,Copa 1080 MultiAudio
+#EXTINF:-1 group-title="América" tvg-id="Copa 1080 MultiAudio" tvg-name="Copa 1080 MultiAudio" tvg-logo="" ,Copa 1080 MultiAudio
 plugin://script.module.horus?action=play&id=3a4c8ac955d451bf3c29b45256e74aa0ea82d281
 
-#EXTINF:-1 group-title="Copa" tvg-id="Copa 1080" tvg-name="Copa 1080" tvg-logo="" ,Copa 1080
+#EXTINF:-1 group-title="América" tvg-id="Copa 1080" tvg-name="Copa 1080" tvg-logo="" ,Copa 1080
 plugin://script.module.horus?action=play&id=7d70685696722c2b1b48a5ae1a7f92c445d9443d
 
-#EXTINF:-1 group-title="Copa" tvg-id="Copa 720" tvg-name="Copa 720" tvg-logo="" ,Copa 720
+#EXTINF:-1 group-title="América" tvg-id="Copa 720" tvg-name="Copa 720" tvg-logo="" ,Copa 720
 plugin://script.module.horus?action=play&id=dab7cab5d6d177df36c3b333ca363c2266d91a03
 
 #EXTINF:-1 group-title="Vamos" tvg-id="#Vamos 1080" tvg-name="#Vamos 1080" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos%20HD.png" ,#Vamos 1080
@@ -336,14 +336,14 @@ plugin://script.module.horus?action=play&id=41af6926a6010b68ba2540975761436bb077
 #EXTINF:-1 group-title="Otros" tvg-id="Barça 720" tvg-name="Barça 720" tvg-logo="" ,Barça 720
 plugin://script.module.horus?action=play&id=e3362507e7c732b9461bd7bdc74bd054c49b3ba7
 
-#EXTINF:-1 group-title="PPVP" tvg-id="PPVP 1" tvg-name="PPVP 1" tvg-logo="" ,PPVP 1
+#EXTINF:-1 group-title="América" tvg-id="PPVP 1" tvg-name="PPVP 1" tvg-logo="" ,PPVP 1
 plugin://script.module.horus?action=play&id=600222a4f98df80a2c0df2d60cb5ff3df9620710
 
-#EXTINF:-1 group-title="PPVP" tvg-id="PPVP 2" tvg-name="PPVP 2" tvg-logo="" ,PPVP 2
+#EXTINF:-1 group-title="América" tvg-id="PPVP 2" tvg-name="PPVP 2" tvg-logo="" ,PPVP 2
 plugin://script.module.horus?action=play&id=d6cdd724a97fcf851e7ef641c28d6beb8663496e
 
-#EXTINF:-1 group-title="PPVP" tvg-id="PPVP 3" tvg-name="PPVP 3" tvg-logo="" ,PPVP 3
+#EXTINF:-1 group-title="América" tvg-id="PPVP 3" tvg-name="PPVP 3" tvg-logo="" ,PPVP 3
 plugin://script.module.horus?action=play&id=162942adc047d0f78eac056effbe5bbec54a5e51
 
-#EXTINF:-1 group-title="PPVP" tvg-id="PPVP 4" tvg-name="PPVP 4" tvg-logo="" ,PPVP 4
+#EXTINF:-1 group-title="América" tvg-id="PPVP 4" tvg-name="PPVP 4" tvg-logo="" ,PPVP 4
 plugin://script.module.horus?action=play&id=e454681a152a86da504e63694f17f90d0586867d
